@@ -1,0 +1,1 @@
+# Activitat7_Intellij_Entorns
